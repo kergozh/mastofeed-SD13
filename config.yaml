@@ -45,7 +45,7 @@ credentials:
 # Testing options
 testing:
   # [Bool] Disable push to Mastodon
-  disable_post: True
+  disable_post: False
   # [Bool] force private mention
   force_mention: False
   # [Bool] user in forced privated mention
