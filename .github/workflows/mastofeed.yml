@@ -64,5 +64,5 @@ jobs:
           path: out/control.csv
 
       - name: keep alive action
-        uses: gautamkrishnar/keepalive-workflow@master     
+        uses: gautamkrishnar/keepalive-workflow@master
 
